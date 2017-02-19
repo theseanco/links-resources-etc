@@ -1,4 +1,4 @@
-# links-resources-etc
+# Links/Resources/Notes/etc
 
 This is a respository of links, useful materials, resources, notes etc that I collect from various materials (inc. promotional materials, magazines, research, articles, etc.). I am taking these notes for my research, but seeing as these links and resources can be ephemeral and dependent on being in the 'right place at the right time', I figured they could be useful to someone.
 
