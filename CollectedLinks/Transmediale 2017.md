@@ -1,5 +1,8 @@
 # Resources from Transmediale 2017 (ever elusive)
 
+Collected from handouts, mini-publications, talks and presentations throughout the festival. By no means at all a comprehensive list, but the things that especially caught my interest
+
+
 ==================================
 
 ## [technosphere-magazine.hkw.de](http://technosphere-magazine.hkw.de)
